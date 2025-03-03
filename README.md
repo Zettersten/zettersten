@@ -1,16 +1,98 @@
-## Hi there 👋
+<!-- Erik Zettersten's GitHub Profile -->
 
-<!--
-**Zettersten/zettersten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://your-logo-or-banner-url.com/banner.png" alt="Erik Zettersten" width="600"/>
+  <br>👋 Hi, I'm Erik Zettersten
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">🚀 CTO | Blockchain | AI | FinTech Innovator</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/zettersten?style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/zettersten?style=social" alt="GitHub Stars">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zettersten" alt="Profile Views">
+</p>
+
+---
+
+### **💡 About Me**
+🔹 **CTO & Technology Leader** with expertise in **Blockchain, AI, and FinTech**  
+🔹 **Architect of $180M+ in blockchain transactions** through smart contracts & NFT platforms  
+🔹 **Machine Learning Advocate** | Built AI-powered fraud detection reducing losses by **94%**  
+🔹 **Public Speaker** on **AI in Content, Blockchain Compliance, and Cloud Migrations**  
+🔹 **Mentored by & worked alongside Gary Vaynerchuk** to drive **Web3 & AI adoption**  
+
+💬 **Ask me about:** **Blockchain, Smart Contracts, AI, LLMs, Cloud Architecture, FinTech APIs**
+
+---
+
+### **🛠️ Tech Stack**
+<p align="center">
+  <img src="https://img.shields.io/badge/Blockchain-Ethereum-blue?style=for-the-badge&logo=ethereum" />
+  <img src="https://img.shields.io/badge/Smart%20Contracts-Solidity-gray?style=for-the-badge&logo=solidity" />
+  <img src="https://img.shields.io/badge/AI-OpenAI-orange?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoft-azure" />
+  <img src="https://img.shields.io/badge/DevOps-Kubernetes-informational?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/FinTech-PCI%20Compliance-red?style=for-the-badge&logo=visa" />
+</p>
+
+---
+
+### **🔥 Featured Projects**
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zettersten/veefriends-smart-contracts">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=veefriends-smart-contracts&theme=react" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zettersten/ai-content-pipeline">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=ai-content-pipeline&theme=react" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zettersten/fintech-security">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=fintech-security&theme=react" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zettersten/nft-marketplace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=nft-marketplace&theme=react" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### **📊 GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zettersten&show_icons=true&theme=react&count_private=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zettersten&theme=react" />
+</p>
+
+---
+
+### **🎤 Public Speaking & Thought Leadership**
+🎙️ **Keynote Speaker** on **Blockchain, AI, and Cloud Architecture**  
+📝 **Published Articles & Whitepapers** on **FinTech Security & Web3**  
+📚 **Guest Contributor** on **Tech Podcasts & AI Innovation Panels**  
+
+---
+
+### **🌎 Let's Connect!**
+<p align="center">
+  <a href="https://linkedin.com/in/zettersten">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/zettersten">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="mailto:erik@zettersten.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
