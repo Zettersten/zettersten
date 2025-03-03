@@ -38,7 +38,7 @@
 
 ---
 
-### **🔥 Featured Projects**
+### **🔥 Fun Projects**
 <table>
   <tr>
     <td align="center">
