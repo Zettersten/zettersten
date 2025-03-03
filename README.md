@@ -42,25 +42,25 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/zettersten/veefriends-smart-contracts">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=veefriends-smart-contracts&theme=react" />
+      <a href="https://github.com/Zettersten/LinkPreview">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=LinkPreview&theme=react" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/zettersten/ai-content-pipeline">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=ai-content-pipeline&theme=react" />
+      <a href="https://github.com/Zettersten/PathCat">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=PathCat&theme=react" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/zettersten/fintech-security">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=fintech-security&theme=react" />
+      <a href="https://github.com/Zettersten/SocialCounter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=SocialCounter&theme=react" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/zettersten/nft-marketplace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=nft-marketplace&theme=react" />
+      <a href="https://github.com/Zettersten/BadBotBlocker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=BadBotBlocker&theme=react" />
       </a>
     </td>
   </tr>
@@ -89,7 +89,7 @@
   <a href="https://linkedin.com/in/zettersten">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/zettersten">
+  <a href="https://x/zettersten">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" />
   </a>
   <a href="mailto:erik@zettersten.com">
