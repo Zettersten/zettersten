@@ -2,7 +2,11 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Zettersten/zettersten/refs/heads/main/logo.png" alt="Erik Zettersten" width="100%"/>
+  <br>
+  <br>
   <br>👋 Hi, I'm Erik Zettersten
+  <br>
+  <br>
 </h1>
 
 <h3 align="center">🚀 CTO | Blockchain | AI | FinTech Innovator</h3>
