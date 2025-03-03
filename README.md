@@ -1,7 +1,7 @@
 <!-- Erik Zettersten's GitHub Profile -->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Zettersten/zettersten/refs/heads/main/logo.png" alt="Erik Zettersten" width="600"/>
+  <img src="https://raw.githubusercontent.com/Zettersten/zettersten/refs/heads/main/logo.png" alt="Erik Zettersten" width="100%"/>
   <br>👋 Hi, I'm Erik Zettersten
 </h1>
 
