@@ -93,7 +93,7 @@
   <a href="https://linkedin.com/in/zettersten">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://x/zettersten">
+  <a href="https://x.com/zettersten">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" />
   </a>
   <a href="mailto:erik@zettersten.com">
