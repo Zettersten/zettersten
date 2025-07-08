@@ -46,12 +46,12 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Zettersten/LinkPreview">
+      <a href="https://github.com/Zettersten/MarkdigExtensions.Query">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=MarkdigExtensions.Query&theme=react" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Zettersten/PathCat">
+      <a href="https://github.com/Zettersten/BlazorCanvas2d">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=BlazorCanvas2d&theme=react" />
       </a>
     </td>
