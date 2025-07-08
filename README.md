@@ -47,6 +47,18 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Zettersten/LinkPreview">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=MarkdigExtensions.Query&theme=react" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Zettersten/PathCat">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=BlazorCanvas2d&theme=react" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Zettersten/LinkPreview">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=zettersten&repo=LinkPreview&theme=react" />
       </a>
     </td>
